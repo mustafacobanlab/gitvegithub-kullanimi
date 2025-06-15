@@ -1,6 +1,6 @@
 ---
 
-## 📌 Git Nedir?
+### 📌 Git Nedir?
 
 **Git**, proje dosyalarının geçmişini ve değişikliklerini takip etmeyi sağlayan dağıtık bir sürüm kontrol sistemidir.
 
