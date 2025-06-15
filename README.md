@@ -1,10 +1,3 @@
----
-
-### 📌 Git Nedir?
-
-**Git**, proje dosyalarının geçmişini ve değişikliklerini takip etmeyi sağlayan dağıtık bir sürüm kontrol sistemidir.
-
-**GitHub** ise bu Git projelerini çevrimiçi depolayabileceğin ve takım arkadaşlarınla paylaşabileceğin bir platformdur.
 
 ---
 
